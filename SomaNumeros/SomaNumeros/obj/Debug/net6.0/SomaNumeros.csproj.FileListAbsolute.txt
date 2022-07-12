@@ -1,0 +1,15 @@
+E:\apps\Pessoal\SomaNumeros\SomaNumeros\bin\Debug\net6.0\SomaNumeros.exe
+E:\apps\Pessoal\SomaNumeros\SomaNumeros\bin\Debug\net6.0\SomaNumeros.deps.json
+E:\apps\Pessoal\SomaNumeros\SomaNumeros\bin\Debug\net6.0\SomaNumeros.runtimeconfig.json
+E:\apps\Pessoal\SomaNumeros\SomaNumeros\bin\Debug\net6.0\SomaNumeros.dll
+E:\apps\Pessoal\SomaNumeros\SomaNumeros\bin\Debug\net6.0\SomaNumeros.pdb
+E:\apps\Pessoal\SomaNumeros\SomaNumeros\obj\Debug\net6.0\SomaNumeros.csproj.AssemblyReference.cache
+E:\apps\Pessoal\SomaNumeros\SomaNumeros\obj\Debug\net6.0\SomaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+E:\apps\Pessoal\SomaNumeros\SomaNumeros\obj\Debug\net6.0\SomaNumeros.AssemblyInfoInputs.cache
+E:\apps\Pessoal\SomaNumeros\SomaNumeros\obj\Debug\net6.0\SomaNumeros.AssemblyInfo.cs
+E:\apps\Pessoal\SomaNumeros\SomaNumeros\obj\Debug\net6.0\SomaNumeros.csproj.CoreCompileInputs.cache
+E:\apps\Pessoal\SomaNumeros\SomaNumeros\obj\Debug\net6.0\SomaNumeros.dll
+E:\apps\Pessoal\SomaNumeros\SomaNumeros\obj\Debug\net6.0\refint\SomaNumeros.dll
+E:\apps\Pessoal\SomaNumeros\SomaNumeros\obj\Debug\net6.0\SomaNumeros.pdb
+E:\apps\Pessoal\SomaNumeros\SomaNumeros\obj\Debug\net6.0\SomaNumeros.genruntimeconfig.cache
+E:\apps\Pessoal\SomaNumeros\SomaNumeros\obj\Debug\net6.0\ref\SomaNumeros.dll
